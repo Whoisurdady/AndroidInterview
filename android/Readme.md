@@ -219,3 +219,8 @@ weight是指对父view中的额外空间（注意这个额外空间）按比例�
 [打包流程](http://blog.csdn.net/huachao1001/article/details/51504469)
 
 ![img](https://upload-images.jianshu.io/upload_images/3385286-48c785a0682c408b.png?imageMogr2/auto-orient/)
+
+### android 启动流程
+[启动流程](https://www.jianshu.com/p/a5532ecc8377)
+
+![img](https://upload-images.jianshu.io/upload_images/851999-a9c2c456c9f91596.jpg?imageMogr2/auto-orient/)
