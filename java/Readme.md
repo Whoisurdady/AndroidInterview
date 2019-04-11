@@ -136,3 +136,8 @@ java会帮我们完成构造函数的补充，Dog实际隐式的构造函数如�
 3. CounterMarkSwap(CMS)
 4. 内存分代
 5. 堆栈	
+
+## 3.泛型
+1.	extends
+2. super: 意义和extends相反，叫下界通配符，指必须是*XXClass或者XXClass的基类*
+3. kotlin 泛型
