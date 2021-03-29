@@ -90,3 +90,7 @@ weight是指对父view中的额外空间（注意这个额外空间）按比例�
 [启动流程](https://www.jianshu.com/p/a5532ecc8377)
 
 ![img](https://upload-images.jianshu.io/upload_images/851999-a9c2c456c9f91596.jpg?imageMogr2/auto-orient/)
+
+
+## 别人的面试总结
+https://mp.weixin.qq.com/s/i3NfBV0i-NRw7gfzJasI8w
